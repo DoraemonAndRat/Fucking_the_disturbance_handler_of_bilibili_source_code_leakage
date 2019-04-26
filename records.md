@@ -1,4 +1,8 @@
 
+# 2019.04.26
+
+- 泄露代码显示抽奖活动“注水”，B站遭约谈 https://www.ithome.com/0/421/049.htm
+
 # 2019.04.25
 
 - dmca/2019/04/2019-04-24-Bilibili.md https://github.com/github/dmca/blob/master/2019/04/2019-04-24-Bilibili.md
